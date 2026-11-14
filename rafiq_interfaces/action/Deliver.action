@@ -1,0 +1,11 @@
+# Goal
+string pickup
+string dropoff
+---
+# Result
+bool success
+string message
+---
+# Feedback
+string state
+string current_station
